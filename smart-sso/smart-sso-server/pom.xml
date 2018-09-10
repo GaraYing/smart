@@ -71,7 +71,7 @@
 			<artifactId>jackson-core</artifactId>
 		</dependency>
 		
-		<!-- Dubbo相关
+		<!-- Dubbo相关-->
 		<dependency>
 			<groupId>com.github.sgroschupf</groupId>
 			<artifactId>zkclient</artifactId>
@@ -100,6 +100,6 @@
 			<groupId>io.netty</groupId>
 			<artifactId>netty-codec-http</artifactId>
 		</dependency>
-		 -->
+
 	</dependencies>
 </project>
